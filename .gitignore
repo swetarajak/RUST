@@ -1,0 +1,25 @@
+# Ignore compiled files and folders
+/target/
+**/*.exe
+**/*.pdb
+**/*.pddb
+
+# IDE/editor files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+*.suo
+*.user
+*.rs.bk
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
